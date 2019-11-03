@@ -1,0 +1,24 @@
+{
+  "name": "kydi19-lab7",
+  "version": "1.0.0",
+  "description": "ajax and express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XYIAN/kydi19-lab7.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/XYIAN/kydi19-lab7/issues"
+  },
+  "homepage": "https://github.com/XYIAN/kydi19-lab7#readme",
+  "dependencies": {
+    "ejs": "^2.7.1",
+    "express.js": "^1.0.0",
+    "request": "^2.88.0"
+  }
+}
